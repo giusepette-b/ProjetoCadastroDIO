@@ -1,0 +1,15 @@
+C:\workspace\ProjetoCadastroDio\bin\Debug\net6.0\ProjetoCadastroDio.exe
+C:\workspace\ProjetoCadastroDio\bin\Debug\net6.0\ProjetoCadastroDio.deps.json
+C:\workspace\ProjetoCadastroDio\bin\Debug\net6.0\ProjetoCadastroDio.runtimeconfig.json
+C:\workspace\ProjetoCadastroDio\bin\Debug\net6.0\ProjetoCadastroDio.dll
+C:\workspace\ProjetoCadastroDio\bin\Debug\net6.0\ProjetoCadastroDio.pdb
+C:\workspace\ProjetoCadastroDio\obj\Debug\net6.0\ProjetoCadastroDio.csproj.AssemblyReference.cache
+C:\workspace\ProjetoCadastroDio\obj\Debug\net6.0\ProjetoCadastroDio.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\ProjetoCadastroDio\obj\Debug\net6.0\ProjetoCadastroDio.AssemblyInfoInputs.cache
+C:\workspace\ProjetoCadastroDio\obj\Debug\net6.0\ProjetoCadastroDio.AssemblyInfo.cs
+C:\workspace\ProjetoCadastroDio\obj\Debug\net6.0\ProjetoCadastroDio.csproj.CoreCompileInputs.cache
+C:\workspace\ProjetoCadastroDio\obj\Debug\net6.0\ProjetoCadastroDio.dll
+C:\workspace\ProjetoCadastroDio\obj\Debug\net6.0\refint\ProjetoCadastroDio.dll
+C:\workspace\ProjetoCadastroDio\obj\Debug\net6.0\ProjetoCadastroDio.pdb
+C:\workspace\ProjetoCadastroDio\obj\Debug\net6.0\ProjetoCadastroDio.genruntimeconfig.cache
+C:\workspace\ProjetoCadastroDio\obj\Debug\net6.0\ref\ProjetoCadastroDio.dll
